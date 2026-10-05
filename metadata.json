@@ -1,0 +1,6 @@
+{
+  "name": "HemaLink | Blood Donor & Clinical Transfusion Network",
+  "description": "Intelligent blood donation scheduling, digital donor cards, AI clinical triage copilot, and real-time hospital inventory network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
